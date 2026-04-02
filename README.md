@@ -17,7 +17,7 @@ O objetivo é consolidar conhecimentos, testar conceitos na prática e manter um
   - Listas
   - Tuplas
   - Dicionários
-  - Sets
+  - Conjuntos(Sets)
 - Funções e módulos
 - Manipulação de arquivos
 - Tratamento de exceções

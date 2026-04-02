@@ -1,7 +1,7 @@
-num1 = int(input("Digite o primeiro número: "))
+num1 = int(input("Digite o primeiro número: ")) # Comandos de entradas de numeros
 num2 = int(input("Digite o segundo número: "))
 
-operation = input("Digite a operação (+, -, *, /): ")
+operation = input("Digite a operação (+, -, *, /): ") # Escolher operação 
 
 if operation == "+":
     result = num1 + num2
